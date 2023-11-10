@@ -45,4 +45,7 @@ Soy estudiante y estoy aprendiendo todo este mundo nuevo
 <br>
 <br>
 ### Social:
-[![Instagram] https://www.instagram.com/daniel.florescruz.507/
+[![Instagram]((https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/daniel.florescruz.507/
+
+<br>
+
