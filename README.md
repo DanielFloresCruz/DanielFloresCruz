@@ -28,6 +28,8 @@ Soy estudiante y estoy aprendiendo todo este mundo nuevo
 <img align="right" alt="Mimir" src="https://giffiles.alphacoders.com/209/209343.gif" />
 
 <br>
+<br>
+<br>
 
 <img aling="right" alt= "Mama" src= "https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif">
   
