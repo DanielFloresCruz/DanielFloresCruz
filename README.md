@@ -9,8 +9,8 @@ Soy estudiante y estoy aprendiendo todo este mundo nuevo
 
 
 <div align="center">
-  <a href="https://33.media.tumblr.com/e85d3e398ccf035c0d5dd74a34d57eb9/tumblr_ngbasnF0bG1qze3hdo1_r3_500.gif">
-  <img  src="https://33.media.tumblr.com/e85d3e398ccf035c0d5dd74a34d57eb9/tumblr_ngbasnF0bG1qze3hdo1_r3_500.gif"
+  <a href="[https://33.media.tumblr.com/e85d3e398ccf035c0d5dd74a34d57eb9/tumblr_ngbasnF0bG1qze3hdo1_r3_500.gif](https://th.bing.com/th/id/R.3b0483446aa448217dbc190127840a53?rik=sqKnb5UnwIwBBg&riu=http%3a%2f%2f49.media.tumblr.com%2f294e3a67951b7e581d34bab2d0c67841%2ftumblr_o5muk0Lk241s26zs1o1_1280.gif&ehk=t7g6YE5L08uBkkH4N4OhsZ6dhywOPSMwLQdaUXE7%2fps%3d&risl=&pid=ImgRaw&r=0)">
+  <img  src="[https://33.media.tumblr.com/e85d3e398ccf035c0d5dd74a34d57eb9/tumblr_ngbasnF0bG1qze3hdo1_r3_500.gif](https://th.bing.com/th/id/R.3b0483446aa448217dbc190127840a53?rik=sqKnb5UnwIwBBg&riu=http%3a%2f%2f49.media.tumblr.com%2f294e3a67951b7e581d34bab2d0c67841%2ftumblr_o5muk0Lk241s26zs1o1_1280.gif&ehk=t7g6YE5L08uBkkH4N4OhsZ6dhywOPSMwLQdaUXE7%2fps%3d&risl=&pid=ImgRaw&r=0)"
        alt="loading" 
     /></a>
 </div>
