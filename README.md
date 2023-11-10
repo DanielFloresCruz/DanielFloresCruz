@@ -4,7 +4,7 @@ Soy estudiante y estoy aprendiendo todo este mundo nuevo
 ---
 
 
-# 💻Engineer... Coming soon...
+# 💻Mason and Engineer... Coming soon...
 
 
 
@@ -25,7 +25,7 @@ Soy estudiante y estoy aprendiendo todo este mundo nuevo
 
 <br>
 
-<img align="right" alt="Mimir" src="https://steamuserimages-a.akamaihd.net/ugc/861738022413745366/0CFBCA54384EB970C7BFAD49F37A27FC19420234/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="600" />
+<img align="right" alt="Mimir" src="https://giffiles.alphacoders.com/209/209343.gif" />
   
 ### Languages:
 <img align="left" alt="c++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />  
