@@ -20,6 +20,7 @@ Soy estudiante y estoy aprendiendo todo este mundo nuevo
 - 📖 Studying at UDG CUALTOS
 - 🦾 I try to learning C++
 - 🙏 I only want finish the year
+- 🎧 I like the music
 
 
 
